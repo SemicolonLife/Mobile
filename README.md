@@ -15,7 +15,7 @@ This repository contains a battle-tested mental model and reusable prompt/rule f
 - **Avoid the #1 mistake** — going too deep in one area while ignoring everything else
 - **Call out tradeoffs** like a Staff+ engineer, not a mid-level candidate
 
-> 📝 **Read the full Medium article:** [Stop Over-Engineering Your System Design Interviews — Use This Mental Model Instead](https://medium.com/@rajanTheSilentCompiler)
+> 📝 **Read the full Medium article:** [Stop Over-Engineering Your System Design Interviews — Use This Mental Model Instead]([https://medium.com/@rajanTheSilentCompiler](https://medium.com/@rajanTheSilentCompiler/stop-over-engineering-your-system-design-interviews-use-this-mental-model-instead-620209b43c01))
 
 ---
 
@@ -24,7 +24,6 @@ This repository contains a battle-tested mental model and reusable prompt/rule f
 ```
 .
 ├── system-design-mode.mdc      # Cursor IDE rule file (auto-applies to .md/.txt files)
-├── system-design-article.md    # Full Medium article in markdown
 └── README.md                   # You are here
 ```
 
